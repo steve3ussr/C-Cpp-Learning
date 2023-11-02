@@ -1,2 +1,6 @@
 # C-Cpp-Learning
-Learning C/C++
+
+> What I will do with this repo:
+>
+> - Learn C/C++ with "C++ Primer"
+> 
